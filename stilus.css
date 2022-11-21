@@ -1,0 +1,60 @@
+html{
+    background-color: white;
+}
+body{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+header{
+    padding: 0px;
+    max-width: 1000px;
+    background-color: antiquewhite; 
+    height: 50px; 
+    padding: 30px;  
+
+}
+article{
+    max-width: 750px;
+}
+h1{
+    margin: auto;
+}
+nav{
+    
+    float: right;
+    background-color:antiquewhite;
+    display: block;
+    text-decoration: none;
+    width: 250px;
+
+    
+    
+}
+
+ul li{
+    text-decoration: none;
+    
+    
+}
+
+nav a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    float: left;    
+    
+ 
+}
+
+#Stuffok{
+    background-color: gray;
+    max-width: 750px;
+    padding: 0px;
+}
+
+footer{
+    background-color: rgb(55, 129, 85);   
+    height: 30px;
+    width: 1000px;
+}
